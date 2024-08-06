@@ -23,7 +23,7 @@ The Hospital Management System developed by Sunidhi Priya with Saurav Kumar is a
 ![image](https://github.com/user-attachments/assets/9b772a12-3589-427e-ba08-77636d37f180)
 
 # Link of the Website:
-https://sauravk0045.github.io/Hospital_Website/
+https://sunidhii-p.github.io/Hospital_website/
 
 
 
